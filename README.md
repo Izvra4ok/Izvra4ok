@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!</h1>
 
-![enter image description here](https://i.pinimg.com/736x/77/b4/b8/77b4b8c988c831abeb9e2d9a4ac66dee--not-interested-eric-cartman.jpg)
+![enter image description here](https://www.wallpaperup.com/uploads/wallpapers/2014/12/27/567017/3aa6db38016e849e6fd6405250426480-700.jpg)
 
 <h2>Hi 👋, I'm Barzakouski Sergey</h2>
 
