@@ -20,7 +20,7 @@ I'm married and I have a beautiful daughter.</h3>
   
 - 📫 How to reach me **barzakouski.sergey@gmail.com**  
   
-- 📄 Know about my experiences [https://www.canva.com/design/DAFNN6MYeIU/uzfbZNUCnWCpCqNZ96AjAA/view?utm_content=DAFNN6MYeIU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFNN6MYeIU/uzfbZNUCnWCpCqNZ96AjAA/view?utm_content=DAFNN6MYeIU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFNN6MYeIU/USqHYDBAkePVBiKnyQHjEw/edit?utm_content=DAFNN6MYeIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFNN6MYeIU/USqHYDBAkePVBiKnyQHjEw/edit?utm_content=DAFNN6MYeIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - 📄 Know about my experiences [https://izvra4ok.github.io/rsschool-cv/](https://izvra4ok.github.io/rsschool-cv/)  
   
