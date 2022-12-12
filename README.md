@@ -2,9 +2,9 @@
 
 
 
-<h2>Hi 👋, I'm Siarhey Barzakouski </h2>
+<h2>Hi 👋, I'm Siarhei Barzakouski </h2>
 
-<h3>My names is Siarhey. I'm 32 years old. Programming  and developing inspire me a lot. 
+<h3>My names is Siarhei. I'm 32 years old. Programming  and developing inspire me a lot. 
 My main goal is to obtain new knowledge, experience and skills. I study English twice of week with my teacher. I'm able to learn new technologies and frameworks quickly.
 I'm married and I have a beautiful daughter.</h3>  
  
