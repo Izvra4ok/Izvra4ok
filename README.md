@@ -2,27 +2,20 @@
 
 
 
-<h2>Hi 👋, I'm Siarhei Barzakouski </h2>
+<h2>Hi there👋, I'm Siarhei Barzakouski </h2>
 
 <h3>My name is Siarhei. I'm 32 years old. Programming  and developing inspire me a lot. 
-My main goal is to obtain new knowledge, experience and skills. I study English twice of week with my teacher. I'm able to learn new technologies and frameworks quickly.
-I'm married and I have a beautiful daughter.</h3>  
+My main goal is to obtain new knowledge, experience and skills. I study English twice of week with my teacher. I'm able to learn new technologies and frameworks quickly.</h3>  
  
-- 🔭 I’m currently working on [React-course](https://github.com/Izvra4ok/React-course)  
+- 🔭 I’m currently working on this page.
 
-- 🔭 I’m currently working on [React-course from UlbiTV](https://github.com/Izvra4ok/react-course-from-ulbi)  
+- 🌱 I’m currently learning React.
 
-- 🌱 I’m currently learning **React course: The Way of Samurai**  [enter link description here](https://youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8)
-
-- 🌱 I’m currently learning **React course from UlbiTV**  [enter link description here](https://youtube.com/playlist?list=PL6DxKON1uLOHya4bDIynPTCwZHrezUlFs)
-  
 - 💬 Ask me about **HTML, CSS, JS, React,**  
   
 - 📫 How to reach me **barzakouski.sergey@gmail.com**  
   
-- 📄 Know about my experiences [https://www.canva.com/design/DAFNN6MYeIU/USqHYDBAkePVBiKnyQHjEw/edit?utm_content=DAFNN6MYeIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFNN6MYeIU/USqHYDBAkePVBiKnyQHjEw/edit?utm_content=DAFNN6MYeIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-- 📄 Know about my experiences [https://izvra4ok.github.io/rsschool-cv/](https://izvra4ok.github.io/rsschool-cv/)  
+- 📄 Know about my experiences [CV Siarei Barzakouski](https://www.canva.com/design/DAFZ_09JuHk/GJi0rj-qRZnTWQaBaBRltw/view?utm_content=DAFZ_09JuHk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
   
  
 <h3 align="left">Connect with me:</h3>  
@@ -44,4 +37,3 @@ I'm married and I have a beautiful daughter.</h3>
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izvra4ok" alt="izvra4ok" /></a> </p>  
 
-![enter image description here](https://www.wallpaperup.com/uploads/wallpapers/2014/12/27/567017/3aa6db38016e849e6fd6405250426480-700.jpg)
